@@ -1,0 +1,62 @@
+[
+	{
+		"category_id":"15",
+		"category_title":"ESPORTE",
+		"category_image":"40a0f4ccf469c5f306aef4e38495008b.png"
+	},
+	{
+		"category_id":"16",
+		"category_title":"FILMES",
+		"category_image":"048f8f73041fe077c8acbe31037ec712.png"
+	},
+	{
+		"category_id":"17",
+		"category_title":"CANAIS ABERTO",
+		"category_image":"ee0c926c7cb484126a05b0bcab63cdc4.png"
+	},
+	{
+		"category_id":"18",
+		"category_title":"DOCUMENTÁRIOS",
+		"category_image":"ae4156a5c09bf14b2e6f715cacf9f4d5.png"
+	},
+	{
+		"category_id":"19",
+		"category_title":"VARIEDADES",
+		"category_image":"0bdf2428ce9af93960791e496e895f97.png"
+	},
+	{
+		"category_id":"20",
+		"category_title":"INFANTIS",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	},
+	{
+		"category_id":"21",
+		"category_title":"CANAIS TELECINE",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	},
+	{
+		"category_id":"22",
+		"category_title":"CANAIS HBO",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	},
+	{
+		"category_id":"23",
+		"category_title":"CANAIS FOX",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	},
+	{
+		"category_id":"24",
+		"category_title":"REALITY SHOWS",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	},
+	{
+		"category_id":"25",
+		"category_title":"Z-ADULTOS-Z",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	},
+	{
+		"category_id":"26",
+		"category_title":"ESPORTES INTERNACIONAIS",
+		"category_image":"194a2c5800c89705824c12671ccf8d23.png"
+	}
+]
