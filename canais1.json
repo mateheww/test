@@ -275,8 +275,8 @@
 "cat":"16",
 "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU",
 "nome":"STARCHANNEL",
-"url1":"https://futemax.gratis/assistir_no_geralcdn.php?canal=foxhd&pasta=live",
-"url2":"https://futemax.gratis/assistir_no_geralcdn.php?canal=foxsd&pasta=live",
+"url1":"http://50.7.34.155:2200/BR/Fox_HD-br/index.m3u8",
+"url2":"http://50.7.34.155:2200/BR/Fox_HD-br/index.m3u8",
 "web":true
 },
 {
@@ -971,8 +971,8 @@
 "cat":"23",
 "foto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUSC9j9pUIeP68TVeZFtU_BOi3beYtu0zAw&usqp=CAU",
 "nome":"STARCHANNEL",
-"url1":"https://futemax.gratis/assistir_no_geralcdn.php?canal=foxhd&pasta=live",
-"url2":"http://b5.vc:80/live/valeria/valeria123/71938.m3u8",
+"url1":"http://50.7.34.155:2200/BR/Fox_HD-br/index.m3u8",
+"url2":"http://50.7.34.155:2200/BR/Fox_HD-br/index.m3u8",
 "web":true
 },
 {
