@@ -1,1 +1,1 @@
-["javascript:(function() { document.getElementsByTagName('i')[0].remove();})()"]
+["javascript:(function() { document.getElementsByTagName('button')[0].remove();})()"]
