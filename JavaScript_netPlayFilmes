@@ -1,6 +1,7 @@
 javascript:(function() {
 try{
     document.getElementsByClassName("btn float-left text-light")[0].remove();
+    document.getElementsByClassName("text-muted d-block text-center text-sm-left d-sm-inline-block mb-1")[0].remove();
 } catch (r){
 }
 })()
