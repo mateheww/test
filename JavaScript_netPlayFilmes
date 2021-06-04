@@ -1,1 +1,6 @@
-[""]
+javascript:(function() {
+try{
+    document.getElementsByClassName("btn float-left text-light")[0].remove();
+} catch (r){
+}
+})()
