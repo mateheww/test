@@ -9,4 +9,7 @@ document.getElementsByClassName("text-muted d-block text-center text-sm-left d-s
 try{
 document.getElementsByClassName("btn btn-danger")[0].remove();
 }catch(r){}
+try{
+document.getElementsByClassName("jw-logo jw-logo-top-right jw-reset")[0].remove();
+}catch(r){}
 })()
