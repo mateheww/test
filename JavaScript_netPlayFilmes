@@ -11,5 +11,6 @@ document.getElementsByClassName("btn btn-danger")[0].remove();
 }catch(r){}
 try{
 document.getElementsByClassName("jw-logo jw-logo-top-right jw-reset")[0].remove();
+document.getElementsByClassName("jw-preview jw-reset")[0].remove();
 }catch(r){}
 })()
